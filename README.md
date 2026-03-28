@@ -62,7 +62,13 @@ Backend
 Database
 
 ---
+![image alt]([image_url](https://github.com/khaira372/Dashboard-_fron-end/blob/a42bdb96432b694507f4471b64f2134e7a895c9e/front-end.png))
+![image alt]([[image_url](https://github.com/khaira372/Dashboard-_fron-end/blob/a42bdb96432b694507f4471b64f2134e7a895c9e/front-end.png)](https://github.com/khaira372/Dashboard-_fron-end/blob/a42bdb96432b694507f4471b64f2134e7a895c9e/Dashboard.png))
 
+
+
+
+---
 ## ▶️ How to Run the Project
 
 ### 1. Clone the repository
@@ -71,13 +77,3 @@ git clone https://github.com/khaira372/front-end.git
 
 
 
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="front-end.png" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Dashboard.png" width="600"/>
-</p>
