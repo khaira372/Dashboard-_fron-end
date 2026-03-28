@@ -23,6 +23,18 @@ The application is divided into two main parts:
 
 ---
 
+##Architecture
+
+-Frontend (Web)
+     ↓
+ -REST API
+     ↓
+-Backend
+     ↓
+-Database
+
+---
+
 ## 🧩 Technologies Used
 
 ### Frontend
