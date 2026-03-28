@@ -68,3 +68,16 @@ Database
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/khaira372/front-end.git
+
+
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="front-end.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Dashboard.png" width="600"/>
+</p>
