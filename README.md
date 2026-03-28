@@ -26,18 +26,29 @@ The application is divided into two main parts:
 ##Architecture
 /
 ├── index.html              ← Point d'entrée Vite (charge React)
+|
 ├── vite.config.ts           ← Configuration du serveur de dev
+|
 ├── tailwind.config.ts       ← Configuration Tailwind CSS
+|
 ├── src/
+|
 │   ├── main.tsx             ← Monte l'app React
+|
 │   ├── App.tsx              ← Routes React (charge Index.tsx)
+|
 │   └── pages/
 │       └── Index.tsx         ← Affiche l'iframe vers /dashboard/
+|
 │
 ├── public/dashboard/        ← 🎯 VOTRE DASHBOARD (HTML/CSS/JS pur)
+|
 │   ├── index.html           ← Structure HTML du dashboard
+|
 │   ├── style.css            ← Styles visuels
+|
 │   └── script.js            ← Logique + données + graphiques
+
 
 
 ---
