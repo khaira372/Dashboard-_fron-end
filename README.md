@@ -56,17 +56,6 @@ The application is divided into two main parts:
 ### Database
 - PostgreSQL (with PostGIS if used)
 
----
-
-## 🏗️ Architecture
-
-Frontend (Web)
-↓
-REST API
-↓
-Backend
-↓
-Database
 
 ---
 ![image alt]([image_url](https://github.com/khaira372/Dashboard-_fron-end/blob/a42bdb96432b694507f4471b64f2134e7a895c9e/front-end.png))
