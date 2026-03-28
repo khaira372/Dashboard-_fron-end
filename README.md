@@ -61,12 +61,6 @@ The application is divided into two main parts:
 - JavaScript
 - Chart.js
 
-### Backend
-- FastAPI / Node.js (update based on your backend)
-
-### Database
-- PostgreSQL (with PostGIS if used)
-
 
 ---
 ![image alt]([image_url](https://github.com/khaira372/Dashboard-_fron-end/blob/a42bdb96432b694507f4471b64f2134e7a895c9e/front-end.png))
